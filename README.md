@@ -9,3 +9,5 @@ A principal finalidade é praticar o uso de vários conceitos de programação, 
 - Persistência de dados
 
 E provavelmente outros conceitos que ainda não sei. 
+
+Duvido alguém ler, mas vai perdoando a falta de organização do projeto. XD
